@@ -24,8 +24,7 @@ Many students drop out of university before completing their degree. Universitie
 
 The main users would be university advisors, teachers, and student support departments. Students would also benefit indirectly because they could receive help earlier.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+
 ![Student performance dashboard](https://www.boldbi.com/wp-content/uploads/2025/12/student-performance-dashboard-v2.webp)
 
 
@@ -49,14 +48,31 @@ main()
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+The data would come from university information systems and learning platforms. It could include attendance records, course grades, assignment completion rates, and student participation in online courses. Historical data from previous students would be used to train the model and identify patterns associated with dropping out.
+[Boldbi](https://www.boldbi.com/dashboard-examples/education/student-profile-dashboard/?utm_source=chatgpt.com)
 
-| Syntax      | Description |
+| Category      | Description |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Category	Description
+Project Name      | Student Dropout Predictor       |
+| Problem   | Predict which students are at risk of dropping out.        |
+| Users   |  University advisors, teachers, and student support staff  |
+| AI Method  |  Logistic Regression  |
+| Data Sources |  Attendance records, grades, assignment completion rates, and online learning activity |
+| Output | Probability that a student may drop out |
+| Benefits | Early intervention, improved student success, and higher graduation rates |
+| Challenges | Data privacy, biased data, and prediction accuracy. |
+| Future Work | Improve the model with more data and develop a dashboard for advisors |
+
+| Data Sources      |  |
+| ----------- | ----------- |
+| Data Type | Description |
+| Attendance Records | Student attendance in classes |
+| Grades | Exam and assignment scores |
+| Assignment Completion | Percentage of completed coursework |
+| Online Participation | Activity in learning platforms |
+| Historical Data | Records of previous students who graduated or dropped out |
+
 
 ## Challenges
 
