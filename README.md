@@ -17,24 +17,17 @@ The predictions can help advisors and support staff intervene early by offering 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+Many students drop out of university before completing their degree. Universities often notice the problem too late. An AI system could identify students who are at risk of dropping out and help the university provide support before it happens.
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+The main users would be university advisors, teachers, and student support departments. Students would also benefit indirectly because they could receive help earlier.
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![Student performance dashboard](https://www.boldbi.com/wp-content/uploads/2025/12/student-performance-dashboard-v2.webp)
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 This is how you create code examples:
 ```
@@ -79,5 +72,4 @@ The next step would be to collect and prepare historical student data, train and
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+ [Student performance dashboard](https://www.boldbi.com/dashboard-examples/education/student-performance-dashboard/) /
