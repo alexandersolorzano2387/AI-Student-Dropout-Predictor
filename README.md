@@ -6,11 +6,13 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Project Title
 
-Final project for the Building AI course
+AI Student Dropout Predictor
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+This AI system helps universities identify students who may be at risk of dropping out before completing their studies. It analyzes information such as attendance records, grades, and assignment completion to estimate the likelihood of a student leaving their program. Using machine learning techniques like logistic regression, the system can detect patterns associated with academic difficulties and low engagement.
+
+The predictions can help advisors and support staff intervene early by offering guidance, tutoring, or other resources. The main goal is to improve student success, increase graduation rates, and reduce dropout rates. While the system provides useful insights, final decisions should always involve human judgment, and student privacy must be protected when collecting and using data. 
 
 
 ## Background
@@ -65,11 +67,11 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+The system may produce inaccurate predictions if the data are incomplete or biased. Protecting student privacy and handling sensitive information responsibly are also important challenges. In addition, not all factors affecting student success can be captured by data alone.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+The next step would be to collect and prepare historical student data, train and test the machine learning model, and evaluate its accuracy. Future improvements could include adding more data sources and developing a dashboard that helps advisors identify and support at-risk students more effectively. 
 
 
 ## Acknowledgments
